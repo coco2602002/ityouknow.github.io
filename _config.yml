@@ -18,7 +18,6 @@ favicon: favicon.ico
 repository: purecat.github.io
 github_url: https://github.com/purecat
 url: http://www.purecat.com
-enforce_ssl: purecat.com
 
 ## Gem
 plugins:
